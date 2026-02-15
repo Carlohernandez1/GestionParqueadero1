@@ -1,5 +1,9 @@
 # Proyecto Parqueadero
 
+Este repositorio contiene el desarrollo de la guia 1. Activdad 1 y 3
+Actividad 1. Diagramas de clases en UML - Desarrollo de un diagrama de clases UML para la «Serie de Ejercicios de Modelado No. 1» (individual).
+Actividad 3. Resolución de problemas usando herencia- Código fuente del proyecto “Parqueadero”, desarrollado en el lenguaje de programación Java usando los conceptos de herencia y polimorfismo de manera obligatorio. El código fuente en Java debe estar guardado en un repositorio Git compartido (individual).
+
 Sistema de gestión para un parqueadero desarrollado en Java aplicando herencia y polimorfismo.  
 Permite registrar entradas y salidas de vehículos, calcular el costo de estadía por tipo y consultar el estado del parqueadero.
 
